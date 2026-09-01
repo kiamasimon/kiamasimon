@@ -102,7 +102,7 @@ Full-featured healthcare platform — patient records, appointment scheduling, b
 
 `React` · `Django` · `PostgreSQL`
 
-[**Live demo**](https://hms.aevumsolutions.africa) · [Code](https://github.com/kiamasimon/hospital-management-system)
+[**Live demo**](https://hms.aevumsolutions.africa)
 
 ---
 
@@ -111,7 +111,7 @@ Network access control and user authentication platform for WiFi hotspots, integ
 
 `Vue.js` · `Django` · `FreeRADIUS` · `MikroTik RouterOS` · `PostgreSQL`
 
-[**Live site**](https://linkleo.africa) · [Code](https://github.com/kiamasimon/linkleo)
+[**Live site**](https://linkleo.africa)
 
 ---
 
@@ -120,7 +120,7 @@ Complete online store: product catalogue, cart, payment gateway integration and 
 
 `React` · `Django REST Framework` · `PostgreSQL`
 
-[**Live site**](https://toolnest.linkleo.africa) · [Code](https://github.com/kiamasimon/toolnest)
+[**Live site**](https://toolnest.linkleo.africa)
 
 ---
 
@@ -147,7 +147,7 @@ Property listing and rental management platform.
 
 `Laravel` · `MySQL`
 
-[**Live site**](https://rentalkenya.co.ke)
+[**Live site**](https://rentalkenya.com)
 
 ---
 
