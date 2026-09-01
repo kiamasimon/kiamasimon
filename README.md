@@ -32,7 +32,7 @@ from enterprise procure-to-pay systems to high-volume SMS gateways and WiFi hots
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=kiamasimon&style=flat-square&color=2D3748&label=Profile+views" alt="Profile views" />
+
 
 </div>
 
