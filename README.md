@@ -1,11 +1,3 @@
-<!--
-====================================================================
-  GITHUB PROFILE README — Simon Kiama Irungu
-  Repo must be named exactly: kiamasimon/kiamasimon  (public)
-  File must be at the repo root, named README.md
-====================================================================
--->
-
 <div align="center">
 
 # Simon Kiama Irungu
@@ -166,8 +158,6 @@ Property listing and rental management platform.
 
 ## What I Do
 
-| | |
-|---|---|
 | **Full Stack Development** | Scalable web applications in Django, Laravel, ASP.NET, React and Vue |
 | **Cloud & DevOps** | AWS deployments, security configuration, monitoring and backup automation |
 | **Network Solutions** | Hotspot management and access control with FreeRADIUS and MikroTik |
