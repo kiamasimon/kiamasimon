@@ -32,7 +32,6 @@ from enterprise procure-to-pay systems to high-volume SMS gateways and WiFi hots
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=kiamasimon&style=flat-square&color=2D3748&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -149,17 +148,6 @@ Property listing and rental management platform.
 `Laravel` · `MySQL`
 
 [**Live site**](https://rentalkenya.co.ke)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kiamasimon&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiamasimon&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" height="165" alt="Top languages" />
-
-</div>
 
 ---
 
