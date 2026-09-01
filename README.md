@@ -44,12 +44,12 @@ Senior software developer working across the full stack since 2019, with a focus
 teams, run production AWS environments at 99.9% uptime, and shipped platforms that process
 millions of transactions a month.
 
-- 🏗️ Currently a **Technical Consultant** — cloud infrastructure, platform support and P2P system architecture
-- 💳 Deep experience integrating **M-Pesa, PesaPal, Kopo Kopo, Flutterwave, DPO and Cellulant**
-- 📡 Network-layer work with **FreeRADIUS** and **MikroTik RouterOS** for hotspot authentication and billing
-- ☁️ **Oracle Cloud Infrastructure Certified Architect Associate** (2025)
-- 🎓 B.Sc. Information Technology, Dedan Kimathi University of Technology
-- 📫 Reach me at **sirunguk@gmail.com**
+- Currently a **Technical Consultant** — cloud infrastructure, platform support and P2P system architecture
+- Deep experience integrating **M-Pesa, PesaPal, Kopo Kopo, Flutterwave, DPO and Cellulant**
+- Network-layer work with **FreeRADIUS** and **MikroTik RouterOS** for hotspot authentication and billing
+- **Oracle Cloud Infrastructure Certified Architect Associate** (2025)
+- B.Sc. Information Technology, Dedan Kimathi University of Technology
+- Reach me at **sirunguk@gmail.com**
 
 ---
 
@@ -97,7 +97,7 @@ millions of transactions a month.
 
 <!-- Replace kiamasimon/repo-name with real repos, or delete the Code link for closed-source work. -->
 
-### 🏥 Hospital Management System
+### Hospital Management System
 Full-featured healthcare platform — patient records, appointment scheduling, billing and inventory tracking.
 
 `React` · `Django` · `PostgreSQL`
@@ -106,7 +106,7 @@ Full-featured healthcare platform — patient records, appointment scheduling, b
 
 ---
 
-### 📶 LinkLeo — Hotspot Management System
+### LinkLeo — Hotspot Management System
 Network access control and user authentication platform for WiFi hotspots, integrated with MikroTik RouterOS for session management and billing.
 
 `Vue.js` · `Django` · `FreeRADIUS` · `MikroTik RouterOS` · `PostgreSQL`
@@ -115,7 +115,7 @@ Network access control and user authentication platform for WiFi hotspots, integ
 
 ---
 
-### 🛒 ToolNest — eCommerce Platform
+### ToolNest — eCommerce Platform
 Complete online store: product catalogue, cart, payment gateway integration and order management.
 
 `React` · `Django REST Framework` · `PostgreSQL`
@@ -124,7 +124,7 @@ Complete online store: product catalogue, cart, payment gateway integration and 
 
 ---
 
-### 📋 TenderSure — Procure-to-Pay Platform
+### TenderSure — Procure-to-Pay Platform
 Enterprise e-procurement platform serving clients across multiple sectors. Led the development team and architected the deployment on AWS.
 
 `Django` · `Vue.js` · `ASP.NET` · `AWS`
@@ -133,7 +133,7 @@ Enterprise e-procurement platform serving clients across multiple sectors. Led t
 
 ---
 
-### 📨 Bulk SMS Platforms — Roberms & Procom
+### Bulk SMS Platforms — Roberms & Procom
 High-volume messaging platforms processing millions of messages monthly, with Safaricom/Airtel gateway and M-Pesa billing integration. Led the cloud migration that cut operational costs by 30%.
 
 `Django` · `LEMP` · `M-Pesa` · `Kopo Kopo`
@@ -142,7 +142,7 @@ High-volume messaging platforms processing millions of messages monthly, with Sa
 
 ---
 
-### 🏘️ Rental Kenya
+### Rental Kenya
 Property listing and rental management platform.
 
 `Laravel` · `MySQL`
